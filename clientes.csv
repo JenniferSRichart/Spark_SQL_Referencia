@@ -1,0 +1,501 @@
+id_cliente,nombre,apellidos,email,telefono,ciudad,provincia,codigo_postal,fecha_alta,segmento
+C0001,Feliciana,Cantón Amaya,cliente0001@hotmail.com,+34885 33 21 81,Alicante,Albacete,07140,2023-08-21,particular
+C0002,Joan,Vazquez Amor,cliente0002@hotmail.com,+34872 86 37 94,Valladolid,Zaragoza,11463,2025-05-16,particular
+C0003,Noé,Lobo Cortés,cliente0003@gmail.com,+34 923 11 61 55,Zaragoza,Alicante,48823,2025-09-07,particular
+C0004,Brunilda,Casanovas Pinedo,cliente0004@gmail.com,+34 900 959 310,Vizcaya,Girona,06229,2023-10-04,particular
+C0005,Roxana,Cabrero Pinto,cliente0005@yahoo.com,+34 973 52 55 34,Pontevedra,Santa Cruz de Tenerife,12215,2026-04-27,particular
+C0006,Luisina,Hierro Cárdenas,cliente0006@yahoo.com,+34941483503,Zaragoza,Guadalajara,27290,2024-01-20,particular
+C0007,Blas,Galván Miranda,cliente0007@gmail.com,+34 981672423,Valencia,Palencia,29077,2026-09-27,empresa
+C0008,Sabas,Paredes Gimenez,cliente0008@gmail.com,+34982 71 01 22,Pontevedra,Asturias,26216,2025-01-08,particular
+C0009,Débora,Solé Ángel,cliente0009@yahoo.com,+34701 84 51 46,Lleida,Álava,48323,2024-01-07,particular
+C0010,Angelita,Escalona Vera,cliente0010@gmail.com,+34900 89 32 52,Pontevedra,Guadalajara,33021,2021-12-10,particular
+C0011,Dani,Parejo Meléndez,cliente0011@gmail.com,+34807 39 11 71,Barcelona,Sevilla,32148,2026-06-15,particular
+C0012,Fito,Landa Álamo,cliente0012@hotmail.com,+34 949383465,Melilla,León,08930,2023-11-20,particular
+C0013,Jafet,Baró Neira,cliente0013@gmail.com,+34 878930103,Alicante,Guipúzcoa,05643,2026-02-24,particular
+C0014,Jordán,Lopez Torralba,cliente0014@gmail.com,+34 988 299 737,Cantabria,Badajoz,07352,2025-06-11,particular
+C0015,Paulino,Roda Reig,cliente0015@yahoo.com,+34 807106513,Cantabria,Murcia,30400,2022-12-20,particular
+C0016,Telmo,Español Lopez,cliente0016@yahoo.com,+34881 178 108,Ávila,Valladolid,16491,2023-03-11,particular
+C0017,Santos,Torralba Teruel,cliente0017@gmail.com,+34 945 02 60 64,Girona,Las Palmas,46651,2026-07-03,particular
+C0018,Gisela,Torrecilla Cortina,cliente0018@gmail.com,+34900 309 805,Almería,Palencia,32246,2026-01-20,particular
+C0019,Zaira,Criado Barberá,cliente0019@hotmail.com,+34822219136,Ourense,Ciudad,38940,2022-02-11,particular
+C0020,Estefanía,Bilbao Rius,cliente0020@hotmail.com,+34 985543534,Barcelona,Sevilla,43303,2024-04-30,particular
+C0021,Zacarías,Molina Belmonte,cliente0021@gmail.com,+34 974991183,Barcelona,Huelva,05508,2023-11-08,particular
+C0022,Rafael,López Cruz,cliente0022@yahoo.com,+34988498084,Barcelona,Córdoba,08564,2022-09-08,particular
+C0023,Manuelita,Cortés Lladó,cliente0023@yahoo.com,+34874 53 48 74,Ávila,Santa Cruz de Tenerife,28759,2024-02-17,particular
+C0024,Arsenio,Acevedo Múgica,cliente0024@gmail.com,+34883278680,Asturias,Tarragona,10768,2026-06-02,particular
+C0025,Andrés Felipe,Peiró Colomer,cliente0025@yahoo.com,+34841045053,Sevilla,Badajoz,24178,2026-07-16,empresa
+C0026,Soledad,Ramos Cortes,cliente0026@gmail.com,+34847260256,Cuenca,Cáceres,46958,2022-09-11,particular
+C0027,Roberto,Arias Sosa,cliente0027@gmail.com,+34 873 754 330,La Coruña,Guipúzcoa,19258,2022-05-14,particular
+C0028,María Teresa,Lorenzo Ortega,cliente0028@hotmail.com,+34982 68 50 14,Palencia,Córdoba,03507,2022-09-12,particular
+C0029,Débora,Rovira Ojeda,cliente0029@hotmail.com,+34916 981 693,Alicante,Teruel,29577,2021-10-16,particular
+C0030,Aurora,Figueras Pascual,cliente0030@yahoo.com,+34820 59 51 48,Sevilla,La Rioja,22376,2025-03-14,particular
+C0031,Josefina,Marqués Castejón,cliente0031@gmail.com,+34948629946,Granada,Girona,14774,2025-06-07,particular
+C0032,Mireia,Montserrat Sola,cliente0032@yahoo.com,+34 971 38 72 14,Ávila,Valladolid,16392,2024-06-01,particular
+C0033,Jafet,Flor Colom,cliente0033@gmail.com,+34803 37 91 76,Teruel,Tarragona,26164,2025-12-24,particular
+C0034,Salomón,Hervás Coloma,cliente0034@hotmail.com,+34616 32 87 08,Baleares,Lleida,09738,2025-09-23,empresa
+C0035,Guadalupe,Molins Salas,cliente0035@hotmail.com,+34 982 687 277,Valladolid,Ciudad,42789,2024-02-19,particular
+C0036,María Dolores,Vázquez Tormo,cliente0036@hotmail.com,+34879471434,Guadalajara,Murcia,06280,2022-12-14,particular
+C0037,Eutropio,Guardia Piñol,cliente0037@hotmail.com,+34 846 316 658,La Rioja,Almería,14555,2025-05-08,particular
+C0038,Roque,Aller Pintor,cliente0038@yahoo.com,+34 705 466 889,Madrid,Ceuta,18887,2025-06-26,particular
+C0039,Amalia,Andres Porcel,cliente0039@yahoo.com,+34 946 272 980,Palencia,Ourense,44450,2022-01-03,empresa
+C0040,Celso,Romero Cerdá,cliente0040@yahoo.com,+34 860 465 375,Valladolid,Jaén,19235,2025-05-12,particular
+C0041,José Antonio,Bilbao Sosa,cliente0041@gmail.com,+34 988 053 100,Cantabria,Albacete,41719,2023-01-27,particular
+C0042,Jorge,Cases Sáenz,cliente0042@hotmail.com,+34828 937 452,Vizcaya,Cáceres,21384,2022-09-11,particular
+C0043,Cristina,Amigó Mesa,cliente0043@hotmail.com,+34 941 631 931,Soria,Pontevedra,08933,2026-08-04,particular
+C0044,Micaela,Armengol Olivera,cliente0044@hotmail.com,+34 955 185 067,Las Palmas,Huesca,42653,2025-09-08,particular
+C0045,Laura,Coronado Rozas,cliente0045@gmail.com,+34 985 498 776,Guadalajara,Ciudad,06679,2024-02-24,particular
+C0046,Socorro,Sanmartín Hervás,cliente0046@yahoo.com,+34941507527,Huelva,Zaragoza,17931,2024-09-02,particular
+C0047,Lino,Llorente Agustín,cliente0047@hotmail.com,+34871 136 783,Segovia,Teruel,33166,2025-08-03,particular
+C0048,Mónica,Alemany Buendía,cliente0048@yahoo.com,+34876634957,Las Palmas,Valencia,37070,2024-08-03,particular
+C0049,Pastor,Santiago Lillo,cliente0049@yahoo.com,+34881 31 35 18,Cantabria,Castellón,49405,2025-11-23,particular
+C0050,Leonel,Zamorano Luna,cliente0050@gmail.com,+34 872 435 240,Cuenca,Alicante,04573,2026-06-26,particular
+C0051,Luís,Cases Tudela,cliente0051@gmail.com,+34 719 477 752,Córdoba,Lugo,08476,2022-05-02,particular
+C0052,Salvador,Téllez Benavent,cliente0052@hotmail.com,+34 807 229 413,Navarra,Valladolid,28274,2023-09-12,particular
+C0053,Maura,Yáñez Pintor,cliente0053@yahoo.com,+34971 496 499,Salamanca,Valencia,07503,2023-07-18,particular
+C0054,Eufemia,Galván Lamas,cliente0054@hotmail.com,+34822 23 28 12,La Rioja,León,46178,2025-10-09,empresa
+C0055,Lupe,Antúnez Guardiola,cliente0055@yahoo.com,+34 887713493,Baleares,Murcia,15733,2023-01-16,particular
+C0056,Violeta,Larrañaga Cisneros,cliente0056@gmail.com,+34 812499471,Tarragona,Granada,46857,2025-03-14,particular
+C0057,Lalo,Vall Uribe,cliente0057@yahoo.com,+34822906594,Ávila,Ceuta,45190,2026-09-02,particular
+C0058,Diana,Almansa Leon,cliente0058@hotmail.com,+34800 27 87 42,Santa Cruz de Tenerife,Madrid,06979,2025-10-10,particular
+C0059,Pablo,Real Mínguez,cliente0059@yahoo.com,+34826 25 67 46,Lleida,Ávila,21612,2023-12-04,particular
+C0060,Moisés,Carmona Quintero,cliente0060@hotmail.com,+34 687603859,Santa Cruz de Tenerife,León,50806,2022-03-20,particular
+C0061,Herminio,Lasa Castro,cliente0061@yahoo.com,+34967109324,Navarra,La Rioja,07108,2023-09-09,empresa
+C0062,Prudencia,Carballo Serrano,cliente0062@gmail.com,+34 846748467,Ciudad,Lleida,37127,2023-01-03,particular
+C0063,Rodolfo,Farré Verdejo,cliente0063@hotmail.com,+34 843146584,Girona,Toledo,20566,2026-10-08,particular
+C0064,Cruz,Tovar Comas,cliente0064@yahoo.com,+34987 75 58 86,Guadalajara,Cantabria,46711,2023-10-22,particular
+C0065,Concha,Piñol Guillen,cliente0065@yahoo.com,+34 803 57 66 27,Barcelona,Málaga,39678,2024-08-07,particular
+C0066,Ruth,Cabrera Sacristán,cliente0066@gmail.com,+34985702621,Zamora,Córdoba,23187,2025-02-26,particular
+C0067,Florentina,Bernat Moya,cliente0067@hotmail.com,+34 987 657 809,Ciudad,Santa Cruz de Tenerife,45852,2024-03-21,particular
+C0068,Javi,Botella Roura,cliente0068@gmail.com,+34 826 724 005,Girona,Huelva,25565,2025-06-10,particular
+C0069,Esteban,Hidalgo Requena,cliente0069@hotmail.com,+34852219693,Palencia,Burgos,16216,2025-09-12,particular
+C0070,Felicia,Izquierdo Segura,cliente0070@yahoo.com,+34707 482 175,Santa Cruz de Tenerife,Las Palmas,46240,2023-11-27,particular
+C0071,Yago,Matas Flor,cliente0071@yahoo.com,+34 978 13 69 59,Tarragona,Girona,02437,2025-02-21,particular
+C0072,Leonardo,Aguiló Avilés,cliente0072@hotmail.com,+34980439533,Soria,Valladolid,48246,2022-12-09,empresa
+C0073,Eusebia,Caballero Ariza,cliente0073@yahoo.com,+34 971095214,Valencia,La Rioja,12510,2023-06-26,empresa
+C0074,Eligio,Paz Valls,cliente0074@yahoo.com,+34 848 474 517,Burgos,Valladolid,15785,2025-02-26,particular
+C0075,Raquel,Paz Bosch,cliente0075@yahoo.com,+34 714 81 75 49,Santa Cruz de Tenerife,Huesca,08100,2023-10-07,particular
+C0076,Adriana,Amaya Mosquera,cliente0076@hotmail.com,+34876174612,Alicante,Granada,33284,2022-10-06,particular
+C0077,Cleto,Guitart Cerdá,cliente0077@yahoo.com,+34 973 58 69 26,Madrid,Salamanca,27746,2024-02-27,empresa
+C0078,Anacleto,Pellicer Gaya,cliente0078@yahoo.com,+34971 35 15 85,La Coruña,Cuenca,13439,2022-10-25,particular
+C0079,Regina,Sanz Bravo,cliente0079@hotmail.com,+34 875900532,Asturias,Valladolid,37320,2023-07-16,particular
+C0080,Delia,Garzón Guijarro,cliente0080@yahoo.com,+34 845904228,Zaragoza,Cádiz,08204,2021-12-30,particular
+C0081,Eleuterio,Alcolea Palma,cliente0081@gmail.com,+34 921024026,Valencia,Asturias,32211,2025-08-03,particular
+C0082,Mayte,Paredes Vilanova,cliente0082@hotmail.com,+34827 783 908,Lleida,Segovia,03041,2022-04-17,particular
+C0083,Alejandra,Querol Roldan,cliente0083@hotmail.com,+34 827 77 11 59,Asturias,Barcelona,19023,2026-10-03,particular
+C0084,Carlota,Morcillo Piquer,cliente0084@hotmail.com,+34986 478 961,Segovia,Segovia,51394,2026-06-19,empresa
+C0085,Lorena,Garrido Ropero,cliente0085@yahoo.com,+34877 65 76 61,Las Palmas,Guadalajara,44588,2023-12-11,particular
+C0086,Reinaldo,Corominas Sánchez,cliente0086@gmail.com,+34824 116 152,Palencia,Navarra,37810,2024-07-31,particular
+C0087,Herminia,Carvajal Reig,cliente0087@yahoo.com,+34 949049451,Burgos,Sevilla,32600,2023-09-07,empresa
+C0088,Rebeca,Campoy Ordóñez,cliente0088@hotmail.com,+34928149368,Pontevedra,Sevilla,46447,2024-01-19,particular
+C0089,Ambrosio,Escribano Llano,cliente0089@hotmail.com,+34902550229,Asturias,Burgos,49560,2022-01-14,particular
+C0090,Ciriaco,Garrido Peñalver,cliente0090@yahoo.com,+34 973 52 54 59,Almería,Burgos,11316,2022-03-14,particular
+C0091,Ileana,Bilbao Lladó,cliente0091@yahoo.com,+34 949 79 76 43,Huelva,Las Palmas,08267,2024-03-09,particular
+C0092,Irene,Torrecilla Águila,cliente0092@hotmail.com,+34902 036 900,Granada,Castellón,51289,2022-12-11,particular
+C0093,María Cristina,Jaume Mancebo,cliente0093@yahoo.com,+34 830 76 22 68,Málaga,Navarra,44781,2024-10-15,particular
+C0094,Calixto,Puerta Arnal,cliente0094@yahoo.com,+34 727159696,Girona,Baleares,27544,2021-12-14,particular
+C0095,Moreno,Duarte Seguí,cliente0095@hotmail.com,+34927161369,Melilla,Ávila,26936,2024-05-31,particular
+C0096,Marcia,Nicolás Giralt,cliente0096@yahoo.com,+34848181883,Huelva,Toledo,43299,2023-01-12,particular
+C0097,Jonatan,Calderon Coll,cliente0097@yahoo.com,+34872292127,Valladolid,Ourense,50799,2026-09-15,empresa
+C0098,Vidal,Moraleda Molina,cliente0098@gmail.com,+34 971 177 449,Huelva,Málaga,05862,2024-06-01,particular
+C0099,Íñigo,Sans Arellano,cliente0099@gmail.com,+34928 41 19 98,Lleida,Palencia,37327,2022-02-15,empresa
+C0100,Vinicio,Fabra Montoya,cliente0100@hotmail.com,+34 977820715,Málaga,Segovia,12308,2022-02-09,empresa
+C0101,Jose Miguel,Río Saavedra,cliente0101@hotmail.com,+34 985925546,Vizcaya,Guipúzcoa,45492,2022-03-22,particular
+C0102,Montserrat,Nadal Bastida,cliente0102@yahoo.com,+34 825 864 492,Ávila,Palencia,44490,2022-12-24,particular
+C0103,Yésica,Olmo Menéndez,cliente0103@hotmail.com,+34943 29 14 86,Barcelona,Sevilla,47060,2026-04-03,particular
+C0104,Ciro,Roda Verdugo,cliente0104@yahoo.com,+34 725 423 573,Barcelona,Burgos,06057,2024-04-16,particular
+C0105,Rafaela,Cadenas Vera,cliente0105@hotmail.com,+34985 05 92 96,Cáceres,Cádiz,46406,2023-03-09,particular
+C0106,Lorena,Río Arranz,cliente0106@yahoo.com,+34 928379473,Granada,Zaragoza,31737,2023-06-05,particular
+C0107,Quirino,Saez Serrano,cliente0107@yahoo.com,+34 942886239,Córdoba,Almería,43020,2025-11-12,particular
+C0108,Sandra,Pera Calderon,cliente0108@hotmail.com,+34 984 141 247,Las Palmas,Ávila,15551,2025-08-12,particular
+C0109,Soledad,Olmedo Amor,cliente0109@yahoo.com,+34 807 685 361,Ceuta,Albacete,21885,2022-08-14,particular
+C0110,Primitiva,Naranjo Coll,cliente0110@gmail.com,+34800 472 779,Ávila,Albacete,17772,2023-08-12,empresa
+C0111,Petrona,Conde Álamo,cliente0111@yahoo.com,+34827 43 41 03,Santa Cruz de Tenerife,Zamora,41816,2025-08-31,empresa
+C0112,Bernardino,Cantero Valero,cliente0112@hotmail.com,+34 987 08 93 24,Álava,Salamanca,24122,2023-10-28,particular
+C0113,Concepción,Riera Exposito,cliente0113@hotmail.com,+34823 851 888,Jaén,Lugo,03853,2025-01-24,particular
+C0114,Raúl,Izaguirre Alegre,cliente0114@yahoo.com,+34820 531 952,Huelva,Murcia,23187,2023-04-07,particular
+C0115,Paulina,Sobrino Tejero,cliente0115@hotmail.com,+34 862 170 430,Alicante,Guadalajara,21321,2026-02-28,empresa
+C0116,Rómulo,Sáenz Isern,cliente0116@gmail.com,+34871 450 541,Las Palmas,La Coruña,49713,2025-07-08,empresa
+C0117,Teresa,Pomares Nicolau,cliente0117@gmail.com,+34980758416,Las Palmas,Pontevedra,12826,2026-06-01,particular
+C0118,Lázaro,Montesinos Calderon,cliente0118@gmail.com,+34921 44 79 62,Huelva,León,03775,2024-10-10,particular
+C0119,Encarnacion,Royo Llobet,cliente0119@hotmail.com,+34807165820,Pontevedra,Soria,29716,2022-01-27,particular
+C0120,Edmundo,Bautista Guzman,cliente0120@hotmail.com,+34928 569 092,Huesca,Huesca,30094,2022-06-06,particular
+C0121,Consuela,Cervantes Ávila,cliente0121@yahoo.com,+34944 54 31 02,Melilla,Jaén,37809,2022-10-11,particular
+C0122,Juan Francisco,Juliá Salmerón,cliente0122@gmail.com,+34887731217,Teruel,León,06753,2024-06-29,particular
+C0123,Guadalupe,Olivera Barón,cliente0123@hotmail.com,+34988 442 258,Baleares,Cantabria,10101,2023-10-16,particular
+C0124,Morena,Uribe Amo,cliente0124@yahoo.com,+34928 78 29 11,La Coruña,Teruel,48111,2025-11-06,particular
+C0125,Begoña,Reig Recio,cliente0125@hotmail.com,+34821 251 778,Barcelona,Vizcaya,37130,2023-04-29,particular
+C0126,María Jesús,Castelló Roselló,cliente0126@hotmail.com,+34 807 18 24 22,Teruel,Ceuta,23676,2026-03-11,particular
+C0127,Teresa,Luz Bermúdez,cliente0127@yahoo.com,+34872 842 498,Málaga,Segovia,12051,2026-09-19,particular
+C0128,Fabio,Donoso Nebot,cliente0128@hotmail.com,+34 803 010 943,Salamanca,Santa Cruz de Tenerife,02984,2026-01-05,empresa
+C0129,Tamara,Manjón Matas,cliente0129@yahoo.com,+34880647102,La Rioja,Lugo,31437,2023-07-06,empresa
+C0130,Noé,Cobo Milla,cliente0130@hotmail.com,+34 920 56 25 88,Guadalajara,Ciudad,31570,2022-10-26,particular
+C0131,Juanito,Sancho Huguet,cliente0131@gmail.com,+34825 046 963,Guadalajara,Ourense,48259,2024-06-08,particular
+C0132,Goyo,Cuervo Valentín,cliente0132@hotmail.com,+34975747016,Ciudad,Castellón,39230,2024-10-11,particular
+C0133,Atilio,Ayuso Lucena,cliente0133@yahoo.com,+34 976480162,Toledo,Huesca,51060,2025-03-16,empresa
+C0134,Pío,Arrieta Pérez,cliente0134@gmail.com,+34 872584168,Valladolid,Navarra,19331,2022-10-15,empresa
+C0135,Eduardo,Caballero Prada,cliente0135@yahoo.com,+34923 85 23 98,Málaga,Alicante,03969,2022-02-08,particular
+C0136,Emigdio,Mínguez Sáez,cliente0136@hotmail.com,+34973 29 82 59,Cáceres,La Coruña,41402,2024-04-27,particular
+C0137,Dorita,Navarrete Vendrell,cliente0137@hotmail.com,+34986 79 47 05,Soria,Baleares,28298,2026-09-28,particular
+C0138,Mario,Amor Sánchez,cliente0138@yahoo.com,+34877 09 72 89,Burgos,Soria,16872,2022-01-17,particular
+C0139,Constanza,Canet Farré,cliente0139@gmail.com,+34 971562636,Valencia,Toledo,05081,2022-12-14,particular
+C0140,Aurelia,Galan Morcillo,cliente0140@hotmail.com,+34977 865 278,Murcia,Huelva,45293,2024-01-10,particular
+C0141,Emilia,Tomé Fernandez,cliente0141@gmail.com,+34886 843 443,Guadalajara,Lugo,23859,2026-07-18,particular
+C0142,Natalia,Llanos Maestre,cliente0142@gmail.com,+34988665240,Teruel,Ávila,23699,2025-07-16,particular
+C0143,Gabriela,Jerez Tello,cliente0143@gmail.com,+34 873 84 84 21,Ciudad,Almería,44898,2026-04-17,particular
+C0144,Jaime,Guerrero Badía,cliente0144@gmail.com,+34947 571 208,La Rioja,Segovia,32175,2025-11-02,empresa
+C0145,Florina,Flores Madrigal,cliente0145@yahoo.com,+34887019380,La Rioja,Cádiz,03381,2025-02-25,particular
+C0146,Mirta,Valbuena Estrada,cliente0146@hotmail.com,+34 888 00 49 91,Girona,Lleida,43029,2026-05-25,particular
+C0147,Azucena,Uribe Cañete,cliente0147@hotmail.com,+34975 43 15 27,Teruel,Cádiz,01923,2024-08-23,particular
+C0148,Morena,Marquez Ferrando,cliente0148@gmail.com,+34 946685161,Barcelona,Lugo,22207,2023-11-20,particular
+C0149,Adolfo,Julián Pla,cliente0149@gmail.com,+34 972454990,Segovia,Huesca,46401,2023-10-15,particular
+C0150,Bernabé,Carrasco Solana,cliente0150@yahoo.com,+34 847684145,Ceuta,Barcelona,32338,2023-01-29,particular
+C0151,Wálter,Pereira Ricart,cliente0151@hotmail.com,+34 976 83 39 18,Melilla,Teruel,24709,2022-06-10,empresa
+C0152,Yéssica,Caparrós Barrio,cliente0152@hotmail.com,+34 982398225,Baleares,Soria,14461,2026-09-26,particular
+C0153,Amaya,Bou Vicens,cliente0153@yahoo.com,+34 807 72 86 79,Navarra,Lleida,45090,2024-05-25,particular
+C0154,Loreto,Almeida Priego,cliente0154@yahoo.com,+34639 106 518,Asturias,Lugo,03079,2024-03-20,particular
+C0155,Sebastian,Escolano Cerdá,cliente0155@hotmail.com,+34948567661,Segovia,Huelva,08774,2023-04-18,particular
+C0156,Brígida,Pozo Ángel,cliente0156@gmail.com,+34 877 004 786,Ceuta,Ciudad,31187,2024-09-20,particular
+C0157,Fabián,Llorens Fabregat,cliente0157@hotmail.com,+34 828069033,Badajoz,Pontevedra,03200,2025-07-29,particular
+C0158,Elba,Atienza Hierro,cliente0158@hotmail.com,+34803 673 830,Málaga,Girona,16346,2026-09-04,particular
+C0159,Melchor,Montes Gálvez,cliente0159@yahoo.com,+34 844 83 64 40,Santa Cruz de Tenerife,Soria,28997,2026-07-03,particular
+C0160,Ana Sofía,Arévalo Ocaña,cliente0160@hotmail.com,+34 942 856 624,Cádiz,Valladolid,36253,2025-10-21,particular
+C0161,Jose Angel,Gomis Mas,cliente0161@hotmail.com,+34844 708 668,Jaén,Ciudad,17711,2023-07-04,particular
+C0162,Natalio,Bermúdez Sandoval,cliente0162@yahoo.com,+34824830469,Asturias,Cantabria,50918,2026-10-10,particular
+C0163,Lourdes,Gaya Tello,cliente0163@gmail.com,+34922403317,Tarragona,Pontevedra,47122,2023-07-08,particular
+C0164,Régulo,Heras Montoya,cliente0164@yahoo.com,+34941 78 54 45,Lleida,Badajoz,48344,2025-10-08,empresa
+C0165,María,Montero Frutos,cliente0165@yahoo.com,+34 916 09 32 04,Girona,Burgos,13857,2024-07-31,empresa
+C0166,Jeremías,Pino Hoyos,cliente0166@yahoo.com,+34923 477 725,Barcelona,Toledo,36818,2025-12-06,particular
+C0167,Gerónimo,Barral Zamora,cliente0167@gmail.com,+34821006231,Álava,Castellón,34143,2025-08-27,particular
+C0168,Raúl,Barrena Tomas,cliente0168@hotmail.com,+34 979008860,Melilla,Toledo,19005,2026-05-02,particular
+C0169,Luciano,Alemany Vallés,cliente0169@hotmail.com,+34 952 11 82 33,Huelva,Cuenca,27011,2022-06-13,particular
+C0170,Raúl,Ramis Segovia,cliente0170@hotmail.com,+34880 341 016,Jaén,Navarra,32195,2022-04-03,particular
+C0171,Febe,Agustí Donoso,cliente0171@gmail.com,+34 981659180,Castellón,Tarragona,38144,2025-10-27,empresa
+C0172,Kike,Artigas Benavente,cliente0172@hotmail.com,+34886 89 02 50,Palencia,Burgos,50299,2025-03-01,particular
+C0173,Úrsula,Benítez Martínez,cliente0173@gmail.com,+34 880 968 562,Málaga,Valencia,23666,2022-03-26,particular
+C0174,Clímaco,Ruiz Guerra,cliente0174@gmail.com,+34 924 999 650,Zamora,León,33152,2023-09-19,particular
+C0175,Pelayo,Perez Rosales,cliente0175@gmail.com,+34941 19 43 11,Burgos,Jaén,47640,2023-02-02,particular
+C0176,Manola,Porras Moliner,cliente0176@yahoo.com,+34 827104754,Barcelona,Ávila,13280,2025-06-11,particular
+C0177,Vidal,Vila Raya,cliente0177@gmail.com,+34 731 58 19 95,Álava,Girona,28119,2025-01-27,particular
+C0178,Melania,Blazquez Herrero,cliente0178@hotmail.com,+34984 26 22 44,Madrid,Burgos,05146,2023-03-14,particular
+C0179,Trinidad,Llorente Robledo,cliente0179@yahoo.com,+34978 154 379,Lleida,Badajoz,09879,2024-05-14,particular
+C0180,Adolfo,Priego Márquez,cliente0180@hotmail.com,+34941 57 56 92,Guadalajara,Pontevedra,46566,2023-06-27,particular
+C0181,Alejandra,Miralles Elías,cliente0181@yahoo.com,+34 920 47 93 56,Zamora,La Coruña,24921,2022-09-29,particular
+C0182,Cintia,Folch Escolano,cliente0182@hotmail.com,+34737 374 167,Santa Cruz de Tenerife,Granada,16861,2023-12-05,particular
+C0183,Genoveva,Correa Rocha,cliente0183@yahoo.com,+34821 797 968,Murcia,Alicante,24562,2026-05-06,empresa
+C0184,Dorotea,Blázquez Canales,cliente0184@gmail.com,+34926 290 965,Badajoz,Álava,07462,2023-12-23,particular
+C0185,Iván,Vicens Villena,cliente0185@hotmail.com,+34876756798,Huelva,Albacete,32638,2022-08-31,particular
+C0186,Manolo,Ricart Boada,cliente0186@gmail.com,+34 844545738,Huelva,Lugo,07397,2025-07-03,particular
+C0187,Lorenza,Santamaria Montaña,cliente0187@gmail.com,+34 901010512,Melilla,Cádiz,37169,2023-02-20,empresa
+C0188,Natalio,Roldan Sevilla,cliente0188@gmail.com,+34 946 226 609,León,Palencia,29151,2025-01-31,particular
+C0189,Adalberto,Garmendia Fuster,cliente0189@yahoo.com,+34819182553,Baleares,Córdoba,44955,2025-12-09,particular
+C0190,Belén,Millán Pont,cliente0190@hotmail.com,+34943 91 55 79,Soria,Teruel,20493,2022-07-01,particular
+C0191,Hortensia,Cañete Millán,cliente0191@gmail.com,+34879412528,La Rioja,Pontevedra,10035,2026-08-31,particular
+C0192,Rodolfo,Rocha Estevez,cliente0192@yahoo.com,+34987282742,Guadalajara,León,41593,2022-03-26,particular
+C0193,Rosenda,Palomar Agustí,cliente0193@yahoo.com,+34 843368876,La Rioja,Teruel,30088,2025-12-07,particular
+C0194,Florencio,Blanch Anguita,cliente0194@gmail.com,+34888 04 38 42,Ourense,Valencia,51629,2025-12-27,empresa
+C0195,Carmela,Vicente Carbajo,cliente0195@hotmail.com,+34 828 48 58 07,Las Palmas,Badajoz,49233,2023-11-19,particular
+C0196,Manuel,Antúnez Sandoval,cliente0196@yahoo.com,+34 925 17 13 39,Teruel,Salamanca,42469,2025-06-02,empresa
+C0197,Fito,Chaparro Gabaldón,cliente0197@gmail.com,+34 819 584 982,Teruel,Girona,19961,2026-08-25,particular
+C0198,Juanito,Vilar Bustos,cliente0198@gmail.com,+34 947042232,Ciudad,Valladolid,45317,2025-02-12,particular
+C0199,Amelia,Cisneros Leiva,cliente0199@hotmail.com,+34947671168,Tarragona,Huesca,30798,2025-12-05,empresa
+C0200,Nacio,Acedo Buendía,cliente0200@hotmail.com,+34 974518636,Madrid,Cuenca,22159,2024-03-10,particular
+C0201,Nicolás,Castrillo Toro,cliente0201@yahoo.com,+34 806017012,Lleida,Álava,29036,2023-07-01,empresa
+C0202,Jennifer,Catalán Matas,cliente0202@gmail.com,+34885154152,La Coruña,Santa Cruz de Tenerife,21021,2023-10-08,empresa
+C0203,Timoteo,Bou Bustamante,cliente0203@gmail.com,+34 875 71 29 38,Álava,Álava,46586,2024-09-12,particular
+C0204,Olga,Carreño Roca,cliente0204@hotmail.com,+34842 713 611,Guadalajara,Huesca,20611,2022-12-11,particular
+C0205,Roberto,Cañas Clavero,cliente0205@gmail.com,+34986 909 275,Santa Cruz de Tenerife,Valencia,10920,2025-04-12,particular
+C0206,Encarnación,Salas Gaya,cliente0206@gmail.com,+34 826 219 656,Zamora,Barcelona,17238,2024-02-18,particular
+C0207,Filomena,Blasco Hurtado,cliente0207@hotmail.com,+34887 043 898,Valencia,La Coruña,20368,2022-03-29,particular
+C0208,Miguela,Heras Uría,cliente0208@yahoo.com,+34 828379180,Guadalajara,Barcelona,26351,2026-08-11,particular
+C0209,Sosimo,Pavón Duque,cliente0209@yahoo.com,+34 821 09 10 43,Almería,Zamora,27081,2026-01-31,particular
+C0210,Luciano,Vallejo Ribes,cliente0210@yahoo.com,+34945 188 924,Granada,Ávila,34508,2023-07-04,empresa
+C0211,Nuria,Cortés Morillo,cliente0211@yahoo.com,+34 820463031,Baleares,Lleida,41127,2022-03-30,particular
+C0212,Martin,Echevarría Carreras,cliente0212@gmail.com,+34 843 02 75 88,Cáceres,Huesca,09318,2024-01-24,particular
+C0213,Luz,Carranza Andreu,cliente0213@yahoo.com,+34 954814917,Málaga,Huesca,04633,2026-01-10,particular
+C0214,Rosa María,Diaz Pedro,cliente0214@gmail.com,+34882 191 380,Álava,Ciudad,04013,2025-10-15,particular
+C0215,Prudencio,Piñol Conesa,cliente0215@gmail.com,+34 800 863 536,Cuenca,Asturias,38456,2024-12-12,empresa
+C0216,Dimas,Vallés Badía,cliente0216@gmail.com,+34 877 806 174,Guadalajara,Ávila,37247,2025-08-30,empresa
+C0217,Adán,Peinado Fonseca,cliente0217@yahoo.com,+34901 93 75 97,Toledo,Murcia,50838,2023-11-11,particular
+C0218,Eutropio,Agudo Redondo,cliente0218@gmail.com,+34878850506,Badajoz,Castellón,35721,2023-10-20,particular
+C0219,Simón,Téllez Barreda,cliente0219@gmail.com,+34886103865,Valencia,Ávila,39061,2022-08-03,particular
+C0220,Anselma,Cañellas Prado,cliente0220@gmail.com,+34816 234 456,Guadalajara,León,18822,2023-10-06,particular
+C0221,Carlito,Franco Cerdán,cliente0221@hotmail.com,+34827 212 775,Baleares,Murcia,24480,2023-07-18,empresa
+C0222,Vito,Mendez Sierra,cliente0222@yahoo.com,+34 831 24 90 35,Ávila,Teruel,17267,2024-10-20,particular
+C0223,Ruy,Vilanova Avilés,cliente0223@hotmail.com,+34 901 420 678,Badajoz,Lleida,07678,2022-12-19,particular
+C0224,Domingo,Albero Barrio,cliente0224@gmail.com,+34 842365199,Asturias,Albacete,05225,2023-06-17,particular
+C0225,Vanesa,Salcedo Castells,cliente0225@gmail.com,+34922 107 029,Toledo,La Coruña,33514,2022-01-10,particular
+C0226,Roberto,Roldan Duque,cliente0226@yahoo.com,+34875 244 720,Segovia,Girona,33695,2025-04-13,particular
+C0227,Sofía,Tello Barrera,cliente0227@gmail.com,+34886626383,Jaén,Zamora,47751,2024-10-30,particular
+C0228,Alexandra,Tormo Núñez,cliente0228@hotmail.com,+34981564205,Albacete,Zaragoza,52022,2024-03-01,empresa
+C0229,Bautista,Suarez Ávila,cliente0229@yahoo.com,+34878213348,Valladolid,Ceuta,38728,2025-01-29,particular
+C0230,Pedro,Durán Echeverría,cliente0230@gmail.com,+34 920590599,Ourense,Cantabria,33258,2026-05-22,empresa
+C0231,Martin,Echevarría Trujillo,cliente0231@gmail.com,+34 824 03 93 08,Álava,Guipúzcoa,41247,2023-06-28,particular
+C0232,Noelia,Castrillo Niño,cliente0232@hotmail.com,+34 855002921,Asturias,Huesca,47172,2025-02-21,particular
+C0233,Delia,Cabrero Navarro,cliente0233@yahoo.com,+34 921 226 752,Ceuta,Sevilla,39597,2023-04-08,particular
+C0234,Reyes,Melero Mariño,cliente0234@gmail.com,+34 850969029,Zaragoza,Salamanca,15476,2026-08-03,particular
+C0235,Cristóbal,Valderrama Chico,cliente0235@yahoo.com,+34 822355215,Álava,Córdoba,14741,2023-11-25,particular
+C0236,Jimena,Bauzà Ordóñez,cliente0236@yahoo.com,+34 827 00 67 62,Madrid,Jaén,24018,2026-06-03,particular
+C0237,Remigio,Cadenas Tello,cliente0237@hotmail.com,+34 877 27 10 40,Córdoba,Badajoz,05862,2024-09-06,empresa
+C0238,Francisco,Perez Cuevas,cliente0238@hotmail.com,+34821815997,Las Palmas,Segovia,11813,2025-06-21,particular
+C0239,Faustino,Baeza Cadenas,cliente0239@yahoo.com,+34 874 368 844,Ciudad,Badajoz,04252,2025-02-12,particular
+C0240,Concha,Tudela Corral,cliente0240@gmail.com,+34927 061 497,Badajoz,Albacete,14562,2023-03-25,particular
+C0241,Felicia,Manzanares Bilbao,cliente0241@yahoo.com,+34828467741,Cádiz,Huesca,25998,2024-12-01,particular
+C0242,Glauco,Salinas Arribas,cliente0242@yahoo.com,+34 971 743 490,Valladolid,Tarragona,44743,2022-08-07,particular
+C0243,Che,Núñez Riba,cliente0243@hotmail.com,+34877806868,Ourense,Ciudad,32212,2024-04-26,particular
+C0244,Cayetano,Prat Arana,cliente0244@hotmail.com,+34 984992172,Castellón,Zaragoza,13630,2022-11-07,empresa
+C0245,Aristides,Roda Bermudez,cliente0245@hotmail.com,+34 963294511,Navarra,La Coruña,37179,2024-07-20,particular
+C0246,Rocío,Llorente Vizcaíno,cliente0246@yahoo.com,+34 719 986 162,Ourense,Palencia,39186,2022-08-18,particular
+C0247,Ángela,Camacho Cabrero,cliente0247@yahoo.com,+34 987 56 46 79,Alicante,Cádiz,19049,2025-03-15,particular
+C0248,Ernesto,Querol Arias,cliente0248@yahoo.com,+34922 307 450,Zamora,Granada,21378,2024-02-29,particular
+C0249,Pía,Tur Cabello,cliente0249@gmail.com,+34842 47 54 69,Cantabria,León,14853,2025-03-29,particular
+C0250,Manu,Tormo Villalonga,cliente0250@yahoo.com,+34807 821 486,Vizcaya,Melilla,38268,2022-01-08,particular
+C0251,Fulgencio,Fernández Font,cliente0251@gmail.com,+34881 070 534,Lleida,Málaga,27014,2022-10-30,particular
+C0252,Isa,Anglada Herranz,cliente0252@yahoo.com,+34 979 97 27 98,Huelva,Cáceres,17951,2022-07-18,particular
+C0253,Lucas,Amorós Pomares,cliente0253@gmail.com,+34847933334,Málaga,Albacete,51303,2021-11-07,particular
+C0254,Ainoa,Catalán Duran,cliente0254@hotmail.com,+34 703 49 44 66,Lleida,Córdoba,15300,2025-09-29,particular
+C0255,Marciano,Viñas Puerta,cliente0255@hotmail.com,+34 826 08 58 99,Granada,Soria,08084,2025-11-15,empresa
+C0256,Bernardo,Navarrete Lloret,cliente0256@hotmail.com,+34 921 44 43 28,Almería,Zaragoza,40323,2025-03-19,empresa
+C0257,Gertrudis,Montenegro Chaves,cliente0257@hotmail.com,+34 737 44 66 60,Guipúzcoa,Toledo,47751,2023-09-01,particular
+C0258,Itziar,Tamarit Palmer,cliente0258@hotmail.com,+34 901282417,Valencia,Córdoba,48525,2026-07-13,particular
+C0259,María Carmen,España Narváez,cliente0259@hotmail.com,+34 824353465,Córdoba,Palencia,20270,2025-09-20,particular
+C0260,Renata,Carranza Sosa,cliente0260@gmail.com,+34 821 738 168,La Rioja,Almería,10881,2022-12-11,empresa
+C0261,Herberto,Noriega Recio,cliente0261@hotmail.com,+34 974 252 175,Guadalajara,Santa Cruz de Tenerife,04801,2021-10-25,empresa
+C0262,Vito,Llanos Gallart,cliente0262@gmail.com,+34 847 712 966,Las Palmas,Lugo,26121,2021-10-25,empresa
+C0263,Anselmo,Flores Perea,cliente0263@gmail.com,+34920 83 00 33,Granada,Barcelona,07731,2025-01-14,particular
+C0264,Anita,Maza Diego,cliente0264@gmail.com,+34803447898,Las Palmas,Soria,09768,2024-09-09,particular
+C0265,Valeria,Trillo Palomar,cliente0265@gmail.com,+34 848 603 323,Palencia,Málaga,12074,2022-10-28,particular
+C0266,Quique,Arcos Perez,cliente0266@hotmail.com,+34882 890 901,Almería,Tarragona,08588,2025-04-27,particular
+C0267,Vicente,Pinto Casals,cliente0267@hotmail.com,+34 882 723 046,Sevilla,Melilla,18693,2022-12-11,particular
+C0268,Silvio,Calvo Vidal,cliente0268@hotmail.com,+34 834 117 393,Melilla,Cantabria,24456,2025-04-06,empresa
+C0269,Manolo,Cueto Ariza,cliente0269@hotmail.com,+34980375300,Baleares,Ourense,44845,2025-12-24,particular
+C0270,Eustaquio,Bosch Vidal,cliente0270@gmail.com,+34 826437447,Badajoz,Cádiz,03585,2024-03-31,particular
+C0271,Plácido,Milla Rojas,cliente0271@hotmail.com,+34828100225,León,Salamanca,18583,2022-07-26,particular
+C0272,Ramón,Noriega España,cliente0272@gmail.com,+34 945 67 46 76,Baleares,Barcelona,46624,2022-04-11,particular
+C0273,Rafaela,Cuervo Calleja,cliente0273@yahoo.com,+34 978 97 29 65,Soria,Toledo,09562,2025-11-19,particular
+C0274,Zoraida,Torrents Carbajo,cliente0274@yahoo.com,+34 971014508,Sevilla,Guipúzcoa,35019,2026-03-24,empresa
+C0275,Javiera,Bustos Roselló,cliente0275@hotmail.com,+34 881 75 62 89,Álava,Segovia,11284,2026-01-28,particular
+C0276,Reina,Soria Valcárcel,cliente0276@gmail.com,+34821753540,Navarra,Segovia,25814,2025-03-16,particular
+C0277,Olga,Gutierrez Bermúdez,cliente0277@yahoo.com,+34971971775,Madrid,Valencia,43819,2021-12-05,particular
+C0278,Cristian,Quintanilla Revilla,cliente0278@gmail.com,+34 619 948 837,Huesca,Almería,15609,2025-08-22,particular
+C0279,Natanael,Suárez Parra,cliente0279@hotmail.com,+34 973113055,Navarra,Melilla,25503,2022-09-06,particular
+C0280,Artemio,Córdoba Ugarte,cliente0280@gmail.com,+34946 14 93 31,Castellón,Lleida,13489,2024-08-25,particular
+C0281,Cándido,Ribas Artigas,cliente0281@hotmail.com,+34 841 779 827,Melilla,Valencia,04183,2026-06-25,particular
+C0282,Toribio,Tomas Verdugo,cliente0282@gmail.com,+34849 216 995,La Rioja,Pontevedra,46384,2023-11-21,particular
+C0283,Leocadio,Puga Novoa,cliente0283@yahoo.com,+34 973226984,Teruel,Valencia,37279,2023-08-17,particular
+C0284,Herberto,Gallego Manso,cliente0284@hotmail.com,+34924 22 88 51,Navarra,Lugo,39194,2026-08-18,particular
+C0285,Guadalupe,Rincón Macias,cliente0285@yahoo.com,+34 718106200,Cuenca,Valladolid,11547,2024-03-19,particular
+C0286,Isabela,Iglesia Coll,cliente0286@gmail.com,+34 900 38 05 71,Valencia,Segovia,37783,2025-01-31,empresa
+C0287,Jordán,Vicente Maestre,cliente0287@hotmail.com,+34 806 666 580,Valencia,Córdoba,14309,2025-07-18,particular
+C0288,Paula,Gomis Pedro,cliente0288@hotmail.com,+34872 347 212,Valencia,Málaga,08821,2024-12-25,particular
+C0289,Apolinar,Romero Lorenzo,cliente0289@hotmail.com,+34 884 229 405,Teruel,Burgos,03617,2023-01-31,particular
+C0290,Íngrid,Mora Azcona,cliente0290@hotmail.com,+34 901 79 85 15,Cádiz,Melilla,05468,2026-01-27,particular
+C0291,Feliciano,Ricart Quintanilla,cliente0291@gmail.com,+34925 335 554,Valladolid,Salamanca,35766,2025-10-25,particular
+C0292,Chelo,Agullo Carbó,cliente0292@hotmail.com,+34 925 739 930,Jaén,Zamora,08430,2025-01-21,particular
+C0293,José María,Luna Amat,cliente0293@hotmail.com,+34938 87 70 43,Málaga,Ávila,07288,2023-03-15,particular
+C0294,María Teresa,Aguilera Bastida,cliente0294@gmail.com,+34 875 61 38 61,Albacete,Lleida,47980,2024-08-06,particular
+C0295,Anselmo,Bonilla Beltrán,cliente0295@gmail.com,+34 854 81 93 46,León,Santa Cruz de Tenerife,27505,2025-06-17,particular
+C0296,Maximiano,Alegria Porras,cliente0296@hotmail.com,+34 838091901,Málaga,Badajoz,19994,2024-05-04,particular
+C0297,Elvira,Bolaños Lucena,cliente0297@yahoo.com,+34 942 607 283,Valencia,La Coruña,36764,2024-04-14,particular
+C0298,Fabiana,Cobos Martí,cliente0298@hotmail.com,+34930882100,Murcia,Navarra,06578,2024-05-14,particular
+C0299,Humberto,Núñez Galán,cliente0299@yahoo.com,+34 983 22 23 94,Baleares,Cádiz,44973,2026-08-08,particular
+C0300,Reyes,Ballester Serra,cliente0300@hotmail.com,+34 821 41 41 39,Guipúzcoa,Huelva,09402,2023-10-09,empresa
+C0301,Cornelio,López Baños,cliente0301@gmail.com,+34 920775949,Ourense,Ourense,24887,2024-06-19,empresa
+C0302,Tiburcio,Domingo Acuña,cliente0302@yahoo.com,+34 881 364 525,Lleida,León,24510,2024-05-17,particular
+C0303,Amanda,Camps Echevarría,cliente0303@hotmail.com,+34822 42 83 41,Albacete,Málaga,42394,2022-01-15,particular
+C0304,Odalis,Quirós Garcia,cliente0304@gmail.com,+34 883 88 72 56,Vizcaya,Palencia,49052,2024-04-02,particular
+C0305,Eloy,Sobrino Vallejo,cliente0305@hotmail.com,+34 824 65 80 39,Valladolid,Málaga,10199,2025-07-28,particular
+C0306,Feliciano,Escamilla Coll,cliente0306@hotmail.com,+34978 503 731,Huesca,Ceuta,03805,2023-07-15,particular
+C0307,Aura,Paniagua Pons,cliente0307@yahoo.com,+34973 005 184,Palencia,Murcia,38366,2023-04-04,particular
+C0308,Renato,Pinedo Pavón,cliente0308@hotmail.com,+34 822846386,Huelva,Madrid,32595,2021-10-31,empresa
+C0309,Angélica,Chamorro Sabater,cliente0309@gmail.com,+34 878184322,Huesca,Pontevedra,48009,2022-10-13,particular
+C0310,Gertrudis,Grau Ribera,cliente0310@yahoo.com,+34 828 77 73 92,Albacete,Ciudad,03827,2022-11-12,empresa
+C0311,Consuela,Cuevas Cañizares,cliente0311@hotmail.com,+34 983 09 20 24,Melilla,La Coruña,40279,2026-07-28,empresa
+C0312,Febe,Alfonso Luque,cliente0312@gmail.com,+34875 79 77 23,Pontevedra,Burgos,39184,2023-04-29,particular
+C0313,Estrella,Vicente Lamas,cliente0313@gmail.com,+34 924 79 91 36,Barcelona,Badajoz,02085,2023-07-01,particular
+C0314,Azeneth,Varela Rivas,cliente0314@gmail.com,+34 825 27 99 08,Ávila,Lugo,44213,2022-11-19,particular
+C0315,Valeria,Abella Rosado,cliente0315@hotmail.com,+34948508637,Huelva,Palencia,49587,2026-09-04,particular
+C0316,Clímaco,Roig Cañete,cliente0316@yahoo.com,+34 977 31 49 86,Cantabria,Álava,47474,2021-11-02,empresa
+C0317,Crescencia,Yáñez Carranza,cliente0317@hotmail.com,+34 706356512,Segovia,Palencia,17622,2023-12-31,particular
+C0318,Rita,Roda Pavón,cliente0318@hotmail.com,+34 886 636 887,Huesca,Navarra,37366,2025-11-21,particular
+C0319,José Luis,Melero Ocaña,cliente0319@hotmail.com,+34944 21 37 21,Málaga,La Coruña,23179,2026-06-17,particular
+C0320,Encarna,Azorin Cuevas,cliente0320@yahoo.com,+34612 79 61 14,Huesca,Ávila,40913,2022-02-05,empresa
+C0321,Lourdes,Planas Pérez,cliente0321@hotmail.com,+34984 49 02 77,Cantabria,Sevilla,34957,2024-03-17,empresa
+C0322,Guiomar,Aragonés Vicens,cliente0322@hotmail.com,+34878 920 530,Ávila,Cuenca,52096,2025-03-04,empresa
+C0323,Patricio,Prats Ramirez,cliente0323@hotmail.com,+34 873801184,Huelva,Cuenca,15830,2023-06-07,particular
+C0324,Wálter,Quintero Acuña,cliente0324@yahoo.com,+34849 68 18 18,Guipúzcoa,Baleares,34638,2023-12-20,empresa
+C0325,Sarita,Ibáñez Salas,cliente0325@yahoo.com,+34978 357 790,Baleares,Córdoba,05427,2025-01-11,particular
+C0326,Evita,Giménez Gras,cliente0326@yahoo.com,+34 947 58 80 43,Ávila,La Coruña,45151,2024-09-07,particular
+C0327,Carlos,Escalona Tamayo,cliente0327@yahoo.com,+34 926 39 42 37,Ciudad,Valencia,16863,2024-01-13,particular
+C0328,Hilario,Grande Franco,cliente0328@gmail.com,+34926211179,Valladolid,Murcia,03769,2025-11-17,empresa
+C0329,Ramiro,Miró Ugarte,cliente0329@hotmail.com,+34885 72 84 63,Almería,Melilla,28733,2025-11-05,particular
+C0330,Calixta,Antúnez Valverde,cliente0330@yahoo.com,+34 944271875,Álava,Soria,14811,2025-01-01,empresa
+C0331,Custodia,Cabrero Morell,cliente0331@yahoo.com,+34 883284347,Huesca,Cádiz,33687,2025-05-20,particular
+C0332,Humberto,Rius Perales,cliente0332@yahoo.com,+34 945 47 29 29,Badajoz,Toledo,18691,2023-10-13,particular
+C0333,Catalina,Rosell Piquer,cliente0333@gmail.com,+34844 27 02 67,Santa Cruz de Tenerife,Melilla,35995,2024-06-17,particular
+C0334,Mireia,Torrecilla Marín,cliente0334@yahoo.com,+34 806 612 034,Santa Cruz de Tenerife,Badajoz,30481,2024-08-15,particular
+C0335,Juan Bautista,Paniagua Palomino,cliente0335@hotmail.com,+34882 50 61 59,Ourense,Ourense,43589,2026-05-10,empresa
+C0336,Félix,Luís Padilla,cliente0336@yahoo.com,+34 983 771 694,Santa Cruz de Tenerife,Burgos,11982,2024-08-24,empresa
+C0337,Tadeo,Quiroga Bellido,cliente0337@gmail.com,+34847 535 544,Cuenca,León,24800,2026-10-08,particular
+C0338,Azahar,Sanjuan Riba,cliente0338@gmail.com,+34 860 23 41 32,Badajoz,Badajoz,05180,2025-10-20,particular
+C0339,Carlota,Balaguer Amo,cliente0339@yahoo.com,+34 985 11 49 21,Granada,Ceuta,17213,2024-03-11,particular
+C0340,Venceslás,Cases Castro,cliente0340@hotmail.com,+34 849 005 577,Navarra,León,09854,2026-05-13,particular
+C0341,Galo,Saura Royo,cliente0341@hotmail.com,+34 987 457 831,Granada,Huesca,28014,2023-12-27,particular
+C0342,Fabricio,Mateos Alarcón,cliente0342@gmail.com,+34 985254780,Valladolid,Lugo,20635,2021-11-08,particular
+C0343,María Dolores,Ros Marco,cliente0343@hotmail.com,+34 878 08 53 68,La Coruña,Ciudad,11700,2025-02-02,particular
+C0344,Patricia,Pineda Giménez,cliente0344@yahoo.com,+34822 638 944,La Rioja,Cantabria,05486,2023-04-30,particular
+C0345,Elías,Manjón Cano,cliente0345@hotmail.com,+34973974973,Albacete,Burgos,04252,2026-04-30,particular
+C0346,Alfredo,Estevez Calatayud,cliente0346@yahoo.com,+34884 27 03 12,Madrid,Castellón,23407,2025-05-08,empresa
+C0347,Mateo,Valentín Pera,cliente0347@yahoo.com,+34 745 12 04 61,Cádiz,Cantabria,17389,2025-01-08,empresa
+C0348,Patricia,Alberola Carro,cliente0348@hotmail.com,+34 881 67 30 37,Melilla,Sevilla,14660,2025-10-19,particular
+C0349,Roque,Miguel Moraleda,cliente0349@gmail.com,+34 803881474,Huesca,Almería,44692,2023-08-18,particular
+C0350,Daniel,Guzman Rovira,cliente0350@yahoo.com,+34712 491 630,Palencia,Zamora,46269,2025-10-26,particular
+C0351,Javiera,Cortina Pera,cliente0351@gmail.com,+34 881 27 19 50,Huelva,Segovia,11087,2026-05-04,empresa
+C0352,Máxima,Campo Casas,cliente0352@yahoo.com,+34878585730,Huelva,Toledo,09829,2023-11-28,particular
+C0353,Trini,Ariza Toro,cliente0353@hotmail.com,+34968487392,Guadalajara,Toledo,31696,2024-02-13,empresa
+C0354,Rufina,Cueto Bayón,cliente0354@hotmail.com,+34 846 74 48 57,Vizcaya,Santa Cruz de Tenerife,34158,2024-12-31,particular
+C0355,Macarena,Esteve Alfonso,cliente0355@hotmail.com,+34 928 935 186,Melilla,Soria,33607,2026-06-20,empresa
+C0356,Fabio,Luna Mora,cliente0356@yahoo.com,+34920 11 81 02,Alicante,Cantabria,08015,2025-11-26,particular
+C0357,Gregorio,Cabeza Antón,cliente0357@hotmail.com,+34 943789940,Ceuta,Pontevedra,48044,2022-05-19,empresa
+C0358,Albert,Gallardo Tur,cliente0358@gmail.com,+34975 05 86 50,Melilla,Alicante,49123,2022-05-17,particular
+C0359,Perlita,Mateu Bermejo,cliente0359@gmail.com,+34984 113 863,Melilla,Sevilla,17302,2026-08-17,particular
+C0360,Eufemia,Escamilla Ribes,cliente0360@hotmail.com,+34 827 957 612,Navarra,La Coruña,34075,2024-08-24,particular
+C0361,Gema,Cruz Salazar,cliente0361@yahoo.com,+34918556659,Ourense,Murcia,15019,2024-12-19,particular
+C0362,María Dolores,Izquierdo Palomino,cliente0362@yahoo.com,+34 972 60 04 90,Granada,Álava,20682,2023-08-31,particular
+C0363,Iker,Miranda Almeida,cliente0363@hotmail.com,+34 886 888 992,Alicante,Lleida,24308,2023-02-08,particular
+C0364,Emiliano,Landa Pedraza,cliente0364@hotmail.com,+34881 344 196,Toledo,Asturias,48420,2024-07-15,particular
+C0365,Mónica,Tolosa Duran,cliente0365@yahoo.com,+34 825940961,Vizcaya,Guipúzcoa,23801,2025-06-21,particular
+C0366,Sigfrido,Carreño González,cliente0366@hotmail.com,+34706 04 80 58,Guadalajara,Málaga,46728,2023-08-27,particular
+C0367,Ezequiel,Ayuso Pozo,cliente0367@yahoo.com,+34 982 136 462,Guipúzcoa,Ávila,32185,2026-08-21,particular
+C0368,Marcia,Avilés Pujol,cliente0368@yahoo.com,+34823 686 227,Madrid,La Coruña,43745,2026-08-21,particular
+C0369,Gustavo,Zamora Hoz,cliente0369@gmail.com,+34 821465911,Las Palmas,Huesca,23826,2023-05-25,particular
+C0370,Miguel Ángel,Ocaña Amador,cliente0370@yahoo.com,+34848 59 79 27,Ceuta,Cantabria,45915,2024-12-15,empresa
+C0371,Fabricio,Boada Capdevila,cliente0371@hotmail.com,+34 807392405,Granada,León,31879,2021-12-20,particular
+C0372,Natanael,Gallart Galán,cliente0372@gmail.com,+34 985487920,Palencia,Sevilla,35524,2022-02-23,particular
+C0373,José Mari,Domínguez Barrena,cliente0373@yahoo.com,+34 873940701,Sevilla,Cuenca,44449,2024-11-03,particular
+C0374,Rosaura,Campos Aliaga,cliente0374@yahoo.com,+34942 36 81 57,Cádiz,Cantabria,33810,2025-09-02,particular
+C0375,Chelo,Almeida Ariño,cliente0375@gmail.com,+34 986 45 76 20,Soria,Huelva,24290,2024-05-07,particular
+C0376,Jonatan,Vallejo Llorens,cliente0376@gmail.com,+34882 60 84 32,La Coruña,Sevilla,09995,2022-07-10,particular
+C0377,Luna,Piña Viñas,cliente0377@hotmail.com,+34877639264,León,Murcia,09635,2023-07-15,particular
+C0378,Fortunata,Chacón Francisco,cliente0378@gmail.com,+34902826292,Asturias,Navarra,35928,2022-10-13,particular
+C0379,Gerónimo,Moll Coello,cliente0379@hotmail.com,+34 745 664 742,Badajoz,Barcelona,13107,2021-12-31,particular
+C0380,María Belén,Lasa Gual,cliente0380@hotmail.com,+34878 305 172,Teruel,Segovia,25507,2023-05-05,particular
+C0381,Reyes,Ponce Tur,cliente0381@yahoo.com,+34 843 23 30 60,La Rioja,Ceuta,49651,2023-07-03,particular
+C0382,Marita,Fuente Batalla,cliente0382@gmail.com,+34969 75 73 66,Pontevedra,Valencia,25928,2024-06-09,particular
+C0383,Rufino,Zapata Arenas,cliente0383@hotmail.com,+34827 770 388,Valencia,Alicante,37549,2025-01-26,particular
+C0384,Ascensión,Avilés Falcó,cliente0384@yahoo.com,+34 971 644 726,Salamanca,Almería,46216,2026-03-05,particular
+C0385,Vera,Cisneros Silva,cliente0385@hotmail.com,+34 973 181 298,La Coruña,La Rioja,22198,2025-08-11,particular
+C0386,Amador,Escamilla Santiago,cliente0386@hotmail.com,+34 873 71 45 21,Baleares,Teruel,30451,2024-11-11,particular
+C0387,Che,Zabaleta Plana,cliente0387@hotmail.com,+34 983926860,Guipúzcoa,Ourense,44222,2023-01-20,particular
+C0388,Fermín,Coca Escamilla,cliente0388@hotmail.com,+34806644742,Barcelona,Cantabria,01231,2023-12-06,particular
+C0389,Albano,Segarra Valenciano,cliente0389@yahoo.com,+34988097339,Lleida,La Rioja,29958,2022-06-14,empresa
+C0390,Eliana,Agudo Hierro,cliente0390@hotmail.com,+34 886 98 30 22,Segovia,Huelva,03406,2023-01-05,particular
+C0391,Ricarda,Antúnez Martín,cliente0391@yahoo.com,+34823 01 62 24,Lleida,Valencia,38943,2024-11-03,empresa
+C0392,Andrés Felipe,Buendía Martínez,cliente0392@yahoo.com,+34928 61 68 14,Barcelona,Baleares,46522,2024-02-10,particular
+C0393,Narciso,Águila Riba,cliente0393@hotmail.com,+34874390198,Lugo,Toledo,46131,2024-03-21,particular
+C0394,Teófilo,Moliner Jover,cliente0394@hotmail.com,+34 926 29 97 87,Zaragoza,Cádiz,40938,2023-10-04,particular
+C0395,Leandra,Manrique Ferrer,cliente0395@gmail.com,+34 830713966,Guipúzcoa,Huelva,37727,2023-08-01,particular
+C0396,Aitor,Fortuny Lucena,cliente0396@yahoo.com,+34820 448 850,Soria,Guipúzcoa,23371,2025-02-22,particular
+C0397,Lourdes,Andres Echevarría,cliente0397@gmail.com,+34 922 57 70 27,Santa Cruz de Tenerife,Lleida,36190,2024-08-17,particular
+C0398,Óscar,Riba Barba,cliente0398@hotmail.com,+34 901 958 803,Zaragoza,Zamora,24173,2022-05-04,particular
+C0399,Eustaquio,Lozano Anguita,cliente0399@yahoo.com,+34 941 829 962,Zamora,Valladolid,21203,2024-06-14,particular
+C0400,Leire,Angulo Llabrés,cliente0400@yahoo.com,+34823735743,Cádiz,Baleares,25524,2022-02-04,particular
+C0401,Mayte,Franch Bru,cliente0401@yahoo.com,+34 982 07 82 35,Toledo,Melilla,21339,2024-07-24,particular
+C0402,Eric,Cabello Villalonga,cliente0402@hotmail.com,+34842 307 681,Granada,Alicante,46026,2022-07-08,particular
+C0403,Nazario,Solera Arteaga,cliente0403@gmail.com,+34984 40 94 35,Cantabria,Girona,19130,2026-04-21,particular
+C0404,Melchor,Sainz Carpio,cliente0404@yahoo.com,+34 845 24 10 98,Castellón,Murcia,23958,2026-06-13,empresa
+C0405,Melchor,Linares Cid,cliente0405@hotmail.com,+34 887 93 21 49,Murcia,León,04324,2022-11-19,particular
+C0406,Ambrosio,Sotelo Ayuso,cliente0406@gmail.com,+34 942 01 66 29,Salamanca,Huelva,21476,2024-08-08,particular
+C0407,Olimpia,Figuerola Bermudez,cliente0407@yahoo.com,+34 842 17 17 47,Ceuta,Ceuta,10418,2023-12-21,particular
+C0408,Ximena,Parra Pou,cliente0408@gmail.com,+34 922 57 70 17,Huelva,Lugo,31227,2023-03-25,particular
+C0409,Lorenzo,Olivé Castejón,cliente0409@hotmail.com,+34826 615 814,La Coruña,Palencia,28095,2023-10-22,particular
+C0410,Estela,Hervás Cuenca,cliente0410@yahoo.com,+34942 153 966,Murcia,Tarragona,16476,2023-04-01,particular
+C0411,Gloria,Bermejo Torrecilla,cliente0411@gmail.com,+34 975 581 724,Asturias,Pontevedra,08126,2024-12-31,particular
+C0412,Nacio,Urrutia Barriga,cliente0412@gmail.com,+34 876 290 227,Jaén,Salamanca,38875,2025-07-31,particular
+C0413,Gustavo,Fuster Moliner,cliente0413@yahoo.com,+34901 65 19 09,Barcelona,Girona,05090,2024-12-01,particular
+C0414,Valentina,Baena Abascal,cliente0414@hotmail.com,+34 927140369,Santa Cruz de Tenerife,Guadalajara,47646,2025-01-12,particular
+C0415,Santiago,Pizarro Rozas,cliente0415@hotmail.com,+34 875 272 386,La Rioja,Burgos,19905,2022-11-05,particular
+C0416,Eloy,Alberdi Bellido,cliente0416@hotmail.com,+34712762126,Zamora,Tarragona,40611,2025-05-25,particular
+C0417,Estrella,Escolano Santos,cliente0417@hotmail.com,+34 949 87 65 32,Pontevedra,Álava,38875,2026-01-05,particular
+C0418,Rebeca,Guzmán Valls,cliente0418@yahoo.com,+34 947 895 009,Teruel,Huesca,08416,2026-09-17,particular
+C0419,Alma,Bernal Cifuentes,cliente0419@hotmail.com,+34985 47 81 89,Ciudad,Lugo,42331,2022-06-10,particular
+C0420,Isaura,Miguel Baena,cliente0420@yahoo.com,+34 987077879,La Rioja,Huelva,20308,2024-03-27,particular
+C0421,Florencio,Aranda Mateu,cliente0421@hotmail.com,+34 883 07 92 90,Zaragoza,Valencia,41915,2022-01-03,particular
+C0422,Luciano,Tormo Blanca,cliente0422@gmail.com,+34 982144294,Córdoba,Álava,49590,2022-09-22,particular
+C0423,Elisabet,Díaz Corbacho,cliente0423@hotmail.com,+34 972524372,Guipúzcoa,Ávila,10507,2023-02-01,particular
+C0424,Pilar,Valcárcel Rey,cliente0424@yahoo.com,+34879 723 950,Valladolid,Baleares,04442,2023-03-15,particular
+C0425,Abril,Pujadas Tamayo,cliente0425@yahoo.com,+34 977836674,Melilla,Las Palmas,01777,2024-03-26,particular
+C0426,Áurea,Sanchez Piña,cliente0426@hotmail.com,+34918 01 85 69,Guipúzcoa,Cuenca,18503,2022-08-12,particular
+C0427,José Mari,Posada Serra,cliente0427@hotmail.com,+34 880938525,Soria,Álava,05453,2021-11-17,particular
+C0428,Sergio,Cabañas Zapata,cliente0428@gmail.com,+34 972 534 430,Salamanca,Ávila,04727,2023-08-15,particular
+C0429,Elena,Carro Carretero,cliente0429@gmail.com,+34 842692124,Lleida,Sevilla,05962,2025-08-19,particular
+C0430,Ágata,Lloret Roldán,cliente0430@hotmail.com,+34 921421406,Guipúzcoa,Almería,17923,2024-01-11,particular
+C0431,Gaspar,Saez Baños,cliente0431@yahoo.com,+34 873962712,Castellón,Salamanca,43161,2022-09-06,particular
+C0432,Ximena,Sala Jove,cliente0432@gmail.com,+34741 19 47 07,Segovia,Santa Cruz de Tenerife,01056,2022-02-05,particular
+C0433,Graciana,Portero Larrea,cliente0433@gmail.com,+34 922690877,La Coruña,Toledo,05594,2026-05-16,particular
+C0434,Jaime,Acero Planas,cliente0434@hotmail.com,+34 978198554,Almería,Santa Cruz de Tenerife,43406,2022-07-19,empresa
+C0435,Pío,Nieto Bernat,cliente0435@yahoo.com,+34 888 32 80 63,Tarragona,Jaén,07997,2024-10-31,particular
+C0436,Amanda,Blazquez Río,cliente0436@hotmail.com,+34 871 20 30 93,Jaén,Asturias,36425,2024-05-24,particular
+C0437,Angelina,Sancho Alegre,cliente0437@gmail.com,+34923 05 06 13,Soria,Murcia,10761,2026-09-14,particular
+C0438,Joan,Bello Arco,cliente0438@hotmail.com,+34 844 707 903,Álava,Cádiz,42462,2022-03-15,particular
+C0439,Verónica,Meléndez Cabanillas,cliente0439@yahoo.com,+34 849 911 179,Asturias,Zaragoza,14280,2025-05-27,particular
+C0440,Nicolás,Quesada Morata,cliente0440@gmail.com,+34 843 53 09 25,Baleares,Cuenca,10256,2025-04-22,particular
+C0441,Florentino,Pelayo Cózar,cliente0441@yahoo.com,+34880 902 196,Albacete,Madrid,06290,2021-10-30,particular
+C0442,Adrián,Escobar Borrell,cliente0442@hotmail.com,+34 887 67 23 24,La Rioja,Ciudad,12439,2022-02-04,empresa
+C0443,Débora,Escolano Valero,cliente0443@hotmail.com,+34 824 456 083,Baleares,Melilla,07270,2024-11-08,particular
+C0444,Rosalía,Vera Gimenez,cliente0444@yahoo.com,+34874 403 127,Cádiz,Cáceres,44918,2022-02-21,empresa
+C0445,Baltasar,Pascual López,cliente0445@gmail.com,+34 964597010,Cáceres,Zamora,02904,2025-11-26,empresa
+C0446,Aránzazu,Carmona Belda,cliente0446@gmail.com,+34971 99 56 35,Vizcaya,Baleares,22373,2023-09-18,particular
+C0447,Clímaco,Gálvez Revilla,cliente0447@gmail.com,+34 941 317 970,Burgos,Castellón,40939,2025-08-24,particular
+C0448,Gaspar,Ponce Perea,cliente0448@gmail.com,+34 974 354 352,Tarragona,Ourense,04909,2024-02-29,particular
+C0449,Elías,Cantero Solana,cliente0449@yahoo.com,+34 948 25 34 92,Ourense,Navarra,16053,2022-07-06,particular
+C0450,Sergio,Vélez Torrijos,cliente0450@gmail.com,+34976740633,Las Palmas,Palencia,15575,2023-01-16,particular
+C0451,Xiomara,Adadia Rios,cliente0451@gmail.com,+34800 78 06 86,Zaragoza,Zaragoza,46655,2022-08-11,empresa
+C0452,Víctor,Valbuena Hernandez,cliente0452@gmail.com,+34 716 325 431,Lugo,Sevilla,20977,2023-02-25,particular
+C0453,Juliana,Segovia Amador,cliente0453@yahoo.com,+34 975 262 570,Jaén,Tarragona,22817,2026-04-17,particular
+C0454,Anacleto,Martin Rojas,cliente0454@yahoo.com,+34988 931 950,Almería,Baleares,26097,2024-11-19,particular
+C0455,Adela,Armas Pavón,cliente0455@yahoo.com,+34849 81 83 25,Murcia,Baleares,43535,2025-11-05,particular
+C0456,Malena,Gallego Gomis,cliente0456@yahoo.com,+34 926486401,Huelva,León,32865,2026-01-15,particular
+C0457,Belen,Casado Soriano,cliente0457@hotmail.com,+34986847951,Lleida,Ávila,06254,2025-02-05,particular
+C0458,Tomasa,Escamilla Maldonado,cliente0458@gmail.com,+34827 241 272,Melilla,Santa Cruz de Tenerife,02487,2024-04-08,particular
+C0459,Sigfrido,Catalán Sáez,cliente0459@yahoo.com,+34948704310,Melilla,Segovia,23012,2025-04-12,particular
+C0460,Cristina,Novoa Morera,cliente0460@yahoo.com,+34 986 87 74 92,Cáceres,Zamora,18039,2023-09-15,particular
+C0461,Alondra,Peral Maldonado,cliente0461@gmail.com,+34 845547292,Cádiz,Cádiz,47406,2023-01-30,particular
+C0462,Felix,Gárate Caro,cliente0462@gmail.com,+34 920 927 452,Navarra,Teruel,03273,2024-06-21,particular
+C0463,Omar,Coloma Peralta,cliente0463@yahoo.com,+34 988 284 106,Vizcaya,Burgos,31018,2024-07-01,particular
+C0464,Fabricio,Acosta Vera,cliente0464@yahoo.com,+34 900 74 92 97,Tarragona,Baleares,48948,2025-11-07,particular
+C0465,Trinidad,Arjona Chaparro,cliente0465@hotmail.com,+34828 40 69 37,Ávila,Guadalajara,04606,2023-06-09,particular
+C0466,Dalila,Zurita Girona,cliente0466@yahoo.com,+34 872 01 87 18,Cantabria,Madrid,21824,2026-02-16,particular
+C0467,Basilio,Paniagua Puga,cliente0467@gmail.com,+34949 56 50 45,Granada,León,37767,2022-07-10,particular
+C0468,Ildefonso,Saldaña Ricart,cliente0468@yahoo.com,+34 888266299,Burgos,Castellón,20872,2025-10-24,particular
+C0469,Rufina,Zapata Naranjo,cliente0469@gmail.com,+34 941 106 462,Teruel,Ourense,50495,2022-12-10,particular
+C0470,Heraclio,Estevez Pizarro,cliente0470@yahoo.com,+34979049478,Ceuta,Albacete,01160,2023-02-01,particular
+C0471,Juan Francisco,Marín Sureda,cliente0471@gmail.com,+34 888 627 301,Madrid,Asturias,40248,2024-11-07,particular
+C0472,Cándida,Terrón Rubio,cliente0472@yahoo.com,+34 977158904,Palencia,Almería,10577,2024-06-30,particular
+C0473,Íñigo,Cerdá Palau,cliente0473@gmail.com,+34 807 456 504,Melilla,Santa Cruz de Tenerife,06034,2026-02-23,particular
+C0474,Guillermo,Español Busquets,cliente0474@hotmail.com,+34848 855 445,Murcia,Palencia,24044,2022-12-31,particular
+C0475,Albert,Cerro Villegas,cliente0475@yahoo.com,+34937 652 132,Cantabria,Zamora,37612,2026-04-01,particular
+C0476,Raquel,Carbonell Rincón,cliente0476@yahoo.com,+34 822 120 754,Barcelona,León,40167,2026-03-24,empresa
+C0477,María Carmen,Nogués Dueñas,cliente0477@hotmail.com,+34901 01 32 23,Barcelona,Castellón,09533,2022-06-12,particular
+C0478,Teodoro,Cantón Bermejo,cliente0478@gmail.com,+34978 603 108,Lugo,Baleares,17581,2022-02-22,particular
+C0479,Blas,Mata Alarcón,cliente0479@gmail.com,+34 841 939 325,Ávila,Burgos,49902,2024-02-19,empresa
+C0480,Cruz,Oliveras Ortuño,cliente0480@gmail.com,+34 981 93 89 11,Melilla,Castellón,47911,2023-05-29,particular
+C0481,Lope,Duarte Acosta,cliente0481@hotmail.com,+34825 38 75 92,Soria,Badajoz,12852,2024-10-17,particular
+C0482,Reynaldo,Rodrigo Gargallo,cliente0482@hotmail.com,+34877 61 51 71,Madrid,Valladolid,24674,2024-03-24,particular
+C0483,Cecilia,Armas Blanca,cliente0483@yahoo.com,+34 980164794,Ceuta,Navarra,27691,2024-03-31,particular
+C0484,Rita,Roman Fabregat,cliente0484@gmail.com,+34 977520716,Melilla,Sevilla,45336,2022-07-02,particular
+C0485,Dimas,Clemente Prat,cliente0485@yahoo.com,+34 826 21 53 53,Baleares,Ceuta,28833,2026-01-08,empresa
+C0486,León,Llano Páez,cliente0486@yahoo.com,+34 977967842,Badajoz,Baleares,17429,2025-12-09,empresa
+C0487,Anastasia,Gual Cañizares,cliente0487@gmail.com,+34825 01 70 26,Burgos,Granada,41761,2022-08-06,particular
+C0488,Martirio,Benito Vizcaíno,cliente0488@yahoo.com,+34975 347 784,Zaragoza,Murcia,36823,2021-12-04,particular
+C0489,María Cristina,Angulo Ros,cliente0489@gmail.com,+34 942 75 67 70,Cádiz,Navarra,44215,2024-05-09,particular
+C0490,Soledad,Córdoba Tur,cliente0490@yahoo.com,+34842 46 71 97,Lugo,Navarra,11243,2026-02-01,particular
+C0491,Basilio,Posada Lago,cliente0491@yahoo.com,+34 941 95 45 00,Barcelona,Huesca,23863,2026-09-29,particular
+C0492,Amando,Nogueira Pintor,cliente0492@gmail.com,+34 955 565 033,Segovia,Granada,39832,2022-07-01,particular
+C0493,Visitación,Bastida Mayol,cliente0493@gmail.com,+34923 208 507,Ourense,Málaga,28601,2024-01-17,particular
+C0494,Alex,Soria Alonso,cliente0494@yahoo.com,+34 941 96 59 17,Tarragona,Soria,14494,2024-08-19,particular
+C0495,Anabel,Valverde Nicolás,cliente0495@gmail.com,+34 901 563 718,Girona,Córdoba,04115,2024-04-21,particular
+C0496,Consuela,Quesada Gonzalez,cliente0496@hotmail.com,+34824919541,Las Palmas,Castellón,23761,2022-06-06,particular
+C0497,Florinda,Matas Vargas,cliente0497@yahoo.com,+34958 53 66 49,Sevilla,Valladolid,36885,2023-04-25,particular
+C0498,Socorro,Alfonso Villalonga,cliente0498@gmail.com,+34 981374896,Melilla,Cantabria,24873,2025-09-16,particular
+C0499,Eusebio,Hernandez Contreras,cliente0499@hotmail.com,+34 901665136,Girona,Segovia,11524,2023-12-16,particular
+C0500,Jacinta,Guzman Ramis,cliente0500@gmail.com,+34 828 23 03 47,Navarra,Las Palmas,28657,2022-02-02,particular

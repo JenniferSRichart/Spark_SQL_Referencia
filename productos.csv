@@ -1,0 +1,101 @@
+id_producto,nombre_producto,categoria,precio_unitario,coste_unitario,activo
+P0001,Auriculares Eco,Electrónica,543.95,352.97,true
+P0002,Ventilador Compacto,Hogar,260.39,131.37,true
+P0003,Mancuernas Deluxe,Deportes,165.23,91.08,true
+P0004,Zapatos Eco,Moda,45.35,21.52,true
+P0005,Peluche Premium,Juguetes,98.99,54.94,true
+P0006,Biografía Premium,Libros,38.43,28.24,true
+P0007,Aceite de oliva Ligero,Alimentación,7.64,3.73,true
+P0008,Protector solar Deluxe,Belleza,43.53,22.93,true
+P0009,Teclado Compacto,Electrónica,868.31,418.90,true
+P0010,Sartén Ligero,Hogar,205.43,151.49,true
+P0011,Mochila trekking Deluxe,Deportes,37.61,24.72,true
+P0012,Vaqueros Esencial,Moda,136.24,85.85,true
+P0013,Peluche Premium,Juguetes,37.64,21.78,true
+P0014,Cómic Pro,Libros,6.54,3.77,true
+P0015,Miel Pro,Alimentación,25.52,17.83,true
+P0016,Sérum facial Compacto,Belleza,66.37,49.09,true
+P0017,Webcam Urbano,Electrónica,407.95,273.04,true
+P0018,Juego de sábanas Clásico,Hogar,89.89,52.61,true
+P0019,Balón Ligero,Deportes,237.18,130.67,true
+P0020,Bufanda Compacto,Moda,81.11,45.13,true
+P0021,Coche teledirigido Ligero,Juguetes,70.91,37.79,true
+P0022,Ensayo Clásico,Libros,16.38,9.37,true
+P0023,Café en grano Urbano,Alimentación,25.90,15.47,true
+P0024,Crema hidratante Esencial,Belleza,22.84,15.02,true
+P0025,Tablet Urbano,Electrónica,510.52,282.38,false
+P0026,Batidora Pro,Hogar,212.83,113.07,true
+P0027,Bicicleta estática Deluxe,Deportes,118.34,79.63,false
+P0028,Chaqueta Deluxe,Moda,39.89,23.74,true
+P0029,Peluche Ligero,Juguetes,31.60,15.17,true
+P0030,Ensayo Pro,Libros,13.72,6.23,true
+P0031,Chocolate Premium,Alimentación,38.05,23.44,true
+P0032,Perfume Urbano,Belleza,12.72,5.77,true
+P0033,Webcam Urbano,Electrónica,325.41,240.69,true
+P0034,Olla Clásico,Hogar,247.41,141.08,true
+P0035,Mochila trekking Premium,Deportes,63.13,43.77,false
+P0036,Vaqueros Deluxe,Moda,25.00,16.98,true
+P0037,Peluche Deluxe,Juguetes,77.92,43.96,true
+P0038,Libro de cocina Ligero,Libros,48.57,26.31,true
+P0039,Queso curado Clásico,Alimentación,37.06,18.99,true
+P0040,Jabón artesanal Clásico,Belleza,17.35,8.71,true
+P0041,Auriculares Eco,Electrónica,420.94,264.41,true
+P0042,Juego de sábanas Esencial,Hogar,214.02,141.45,true
+P0043,Mochila trekking Deluxe,Deportes,323.36,221.94,true
+P0044,Vestido Eco,Moda,24.45,12.65,true
+P0045,Coche teledirigido Compacto,Juguetes,11.71,5.85,true
+P0046,Biografía Ligero,Libros,45.61,26.53,true
+P0047,Chocolate Eco,Alimentación,36.88,22.13,true
+P0048,Crema hidratante Ligero,Belleza,7.39,4.28,true
+P0049,Altavoz Premium,Electrónica,108.45,80.10,true
+P0050,Lámpara Esencial,Hogar,176.11,119.57,true
+P0051,Balón Urbano,Deportes,320.72,161.79,true
+P0052,Sudadera Clásico,Moda,78.44,44.91,true
+P0053,Puzzle Compacto,Juguetes,36.00,23.69,true
+P0054,Guía de viaje Familiar,Libros,7.58,3.61,true
+P0055,Aceite de oliva Eco,Alimentación,34.00,23.71,true
+P0056,Protector solar Urbano,Belleza,39.13,19.81,true
+P0057,Webcam Urbano,Electrónica,690.19,352.73,true
+P0058,Sartén Urbano,Hogar,264.45,157.46,true
+P0059,Mochila trekking Ligero,Deportes,281.37,186.53,true
+P0060,Camiseta Familiar,Moda,69.01,35.71,true
+P0061,Puzzle Urbano,Juguetes,94.02,60.58,true
+P0062,Biografía Esencial,Libros,27.88,14.83,true
+P0063,Miel Deluxe,Alimentación,18.90,9.33,true
+P0064,Protector solar Familiar,Belleza,67.43,33.10,true
+P0065,Cargador Pro,Electrónica,841.80,507.03,true
+P0066,Sartén Esencial,Hogar,251.87,157.16,true
+P0067,Esterilla de yoga Urbano,Deportes,193.50,107.11,true
+P0068,Cinturón Urbano,Moda,148.79,105.77,false
+P0069,Muñeca Ligero,Juguetes,41.00,28.98,true
+P0070,Libro de cocina Urbano,Libros,36.32,25.19,true
+P0071,Vino tinto Compacto,Alimentación,20.33,9.37,true
+P0072,Protector solar Pro,Belleza,77.92,55.50,true
+P0073,Webcam Premium,Electrónica,657.53,376.76,true
+P0074,Aspiradora Clásico,Hogar,145.15,107.52,true
+P0075,Mochila trekking Eco,Deportes,230.99,162.97,true
+P0076,Cinturón Pro,Moda,102.27,73.25,true
+P0077,Peluche Premium,Juguetes,63.04,32.81,true
+P0078,Libro de cocina Deluxe,Libros,38.11,22.11,true
+P0079,Vino tinto Clásico,Alimentación,18.42,12.12,true
+P0080,Crema hidratante Pro,Belleza,71.67,38.56,true
+P0081,Ratón inalámbrico Deluxe,Electrónica,491.11,304.38,true
+P0082,Aspiradora Compacto,Hogar,31.90,22.69,true
+P0083,Esterilla de yoga Urbano,Deportes,319.62,157.55,true
+P0084,Zapatos Urbano,Moda,45.81,20.74,true
+P0085,Coche teledirigido Familiar,Juguetes,19.85,11.56,true
+P0086,Cómic Esencial,Libros,33.47,19.32,true
+P0087,Chocolate Deluxe,Alimentación,38.98,27.52,true
+P0088,Sérum facial Ligero,Belleza,34.51,18.59,true
+P0089,Auriculares Eco,Electrónica,267.80,165.98,true
+P0090,Lámpara Ligero,Hogar,225.10,157.54,true
+P0091,Esterilla de yoga Ligero,Deportes,282.25,145.56,true
+P0092,Zapatos Compacto,Moda,102.49,73.90,true
+P0093,Coche teledirigido Urbano,Juguetes,8.14,4.55,true
+P0094,Libro de cocina Pro,Libros,38.14,19.17,true
+P0095,Queso curado Pro,Alimentación,21.64,15.67,true
+P0096,Champú Urbano,Belleza,86.23,46.44,true
+P0097,Teclado Urbano,Electrónica,866.72,426.62,false
+P0098,Ventilador Familiar,Hogar,115.07,79.08,true
+P0099,Balón Clásico,Deportes,165.26,107.72,true
+P0100,Cinturón Pro,Moda,23.47,12.21,true
